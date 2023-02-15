@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@ignite-ui-vitinho/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ignite-ui-vitinho/eslint-config": "*",
+    "@ignite-ui-vitinho/ts-config": "*",
     "@types/node": "^18.13.0",
     "tsup": "^6.6.0",
     "typescript": "^4.9.5"
