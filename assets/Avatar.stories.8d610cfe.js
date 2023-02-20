@@ -1,0 +1,2 @@
+import{A as t}from"./index.b5fc142f.js";import"./index.e48ca8b9.js";import"./iframe.a38924a5.js";import"./index.bf0c60f8.js";import"./jsx-runtime.ec9c8f73.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/VitinhoSouza.png",alt:"Vitinho Souza"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{c as Primary,m as WithFallback,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.8d610cfe.js.map
